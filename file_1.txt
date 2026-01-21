@@ -1,1 +1,2 @@
 This is my first file.
+I am now adding a line of text to the file so as to practice merging. 
